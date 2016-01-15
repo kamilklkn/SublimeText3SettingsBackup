@@ -1,0 +1,13 @@
+[
+     {
+        "keys": ["ctrl+shift+n"],
+        "command": "new_window"
+    },
+    {
+        "keys": ["ctrl+shift+c"],
+        "command": "insert_snippet",
+        "args": {
+            "contents": "console.log($1);"
+        }
+    }
+]
